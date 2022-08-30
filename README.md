@@ -1,1 +1,1 @@
-# Todo-App
+# Todo-App by Daniel Popa & Marian Dumitru
